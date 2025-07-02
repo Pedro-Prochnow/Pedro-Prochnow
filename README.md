@@ -15,7 +15,6 @@
  
  ### Tecnologias que eu não gosto
 
-  - Backend em geral
   - Terminais
 
 
