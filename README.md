@@ -7,11 +7,6 @@
 - HTML
 - CSS
 - Python
-
-### Tecnologias que eu não me aprofundei
-
-- JavaScript
-- Java
  
  ### Tecnologias que eu não gosto
 
