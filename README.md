@@ -7,11 +7,6 @@
 - HTML
 - CSS
 - Python
- 
- ### Tecnologias que eu não gosto
-
-  - Terminais
-
 
 ### Conecte-se comigo
 
