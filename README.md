@@ -8,7 +8,7 @@ Atualmente estudando e praticando tecnologias voltadas para **desenvolvimento we
 ## 🚀 Tecnologias
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Python  
-- **Banco de Dados:** MySQL  
+- **Banco de Dados:** PostgreSQL, DBeaver  
 - **Ferramentas:** Git & GitHub, VSCode, Figma  
 
 ---
