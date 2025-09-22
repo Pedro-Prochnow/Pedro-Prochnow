@@ -15,6 +15,7 @@ Estudante do curso Aprener e Crescer
 
 ### [Spotifeio](https://github.com/Pedro-Prochnow/spotifeio)
 Versão clone do Spotify desenvolvida com Angular para praticar conceitos de frontend moderno.
+
 📌 Principais pontos:
 - Layout responsivo inspirado no Spotify  
 - Reprodução de músicas simulada via JavaScript  
