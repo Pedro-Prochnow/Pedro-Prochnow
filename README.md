@@ -1,22 +1,20 @@
 # 👋 Olá, eu sou o Pedro Henrique Prochnow
 
-Sou desenvolvedor em formação, interessado em criar soluções digitais que unam **funcionalidade** e **boa experiência do usuário**.  
-Atualmente estudando e praticando tecnologias voltadas para **desenvolvimento web**.
-
+Estudante do curso Aprener e Crescer
 ---
 
 ## 🚀 Tecnologias
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript, Angular  
 - **Backend:** Node.js, Python  
-- **Banco de Dados:** PostgreSQL, DBeaver  
-- **Ferramentas:** Git & GitHub, VSCode, Figma  
+- **Banco de Dados:** PostgreSQL  
+- **Ferramentas:** Git & GitHub, VSCode, Figma, DBeaver  
 
 ---
 
 ## 🎧 Projeto em Destaque
 
 ### [Spotifeio](https://github.com/Pedro-Prochnow/spotifeio)
-Clone simplificado inspirado no Spotify, desenvolvido para praticar conceitos de **HTML, CSS e JavaScript**.  
+Versão clone do Spotify desenvolvida com Angular para praticar conceitos de frontend moderno.
 📌 Principais pontos:
 - Layout responsivo inspirado no Spotify  
 - Reprodução de músicas simulada via JavaScript  
