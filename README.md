@@ -30,5 +30,5 @@ Versão clone do Spotify desenvolvida com Angular para praticar conceitos de fro
 ---
 
 ## 📫 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/SEU-LINK)  
-- [Email](mailto:SEUEMAIL@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/pedro-henrique-prochnow/)  
+- [Email](pedrohenriqueprochnow@gmail.com)  
